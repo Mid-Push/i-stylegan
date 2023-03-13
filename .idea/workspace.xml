@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9fee722-df66-4966-96e1-f8d1bbf3230f" name="Default Changelist" comment="" />
+    <list default="true" id="33a5140c-3a09-4c51-a644-58be40c6a436" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_uda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_tool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dirt/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/dirt/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dirt/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dirt/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dirt/myargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/dirt/myargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dirt/vada_train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dirt/vat.py" beforeDir="false" afterPath="$PROJECT_DIR$/dirt/vat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnnlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/dnnlib/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch_utils/ops/conv2d_gradfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/torch_utils/ops/conv2d_gradfix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch_utils/ops/grid_sample_gradfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/torch_utils/ops/grid_sample_gradfix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch_utils/persistence.py" beforeDir="false" afterPath="$PROJECT_DIR$/torch_utils/persistence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/networks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/training_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/training_loop.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="0ca2bb59-83f9-4ba3-a3ed-5e49632620a5" />
-  <component name="ProjectId" id="2MTiaePoLSlqkeZiNhtSKPVflsc" />
+  <component name="ProjectId" id="27MGDQAaDE4vT5qXVvKlCkWq3mH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,17 +48,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../iccv_stargan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../variance_determinant_translation" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mobaterm\Projects\i-stylegan" />
+      <recent name="E:\mobaterm\Projects\i-stylegan\dirt-t" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d9fee722-df66-4966-96e1-f8d1bbf3230f" name="Default Changelist" comment="" />
-      <created>1677798037985</created>
+      <changelist id="33a5140c-3a09-4c51-a644-58be40c6a436" name="Default Changelist" comment="" />
+      <created>1649122420496</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677798037985</updated>
-      <workItem from="1677798039098" duration="702000" />
+      <updated>1649122420496</updated>
+      <workItem from="1649122421811" duration="16513000" />
+      <workItem from="1649215424751" duration="18451000" />
+      <workItem from="1649439689602" duration="19737000" />
+      <workItem from="1649989835608" duration="14173000" />
+      <workItem from="1650520325164" duration="2445000" />
+      <workItem from="1650607321017" duration="11012000" />
+      <workItem from="1650938845642" duration="10199000" />
+      <workItem from="1651206336622" duration="13267000" />
+      <workItem from="1652508850097" duration="63140000" />
+      <workItem from="1652888256487" duration="7869000" />
+      <workItem from="1653366490013" duration="4229000" />
     </task>
     <servers />
   </component>
@@ -38,9 +83,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="752" y="252" key="FileChooserDialogImpl" timestamp="1677798745511">
+    <state x="752" y="252" key="FileChooserDialogImpl" timestamp="1653366603223">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="752" y="252" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1677798745511" />
+    <state x="752" y="252" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1653366603223" />
+    <state x="416" y="115" key="SettingsEditor" timestamp="1652654261306">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="416" y="115" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1652654261306" />
   </component>
 </project>
