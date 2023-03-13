@@ -1,6 +1,7 @@
 # Official pytorch implementation of i-stylegan
 
 ## [Multi-domain image generation and translation with identifiability guarantees](https://openreview.net/pdf?id=U2g8OGONA_V)
+## ICLR2023, Notable Top 25%
 
 We build our code on the StyleGAN2-ADA, please go to https://github.com/NVlabs/stylegan2-ada-pytorch for environment setup.
 (You can still run the code if you don't build NVIDIA conv ops, though it might be slower)
